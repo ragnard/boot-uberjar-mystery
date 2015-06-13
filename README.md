@@ -3,6 +3,8 @@
 This project demonstrates a weird issue I discovered when trying to
 create an uberjar with boot.
 
+I've stripped down the issue I found to a quite bare component program.
+
 The program consists of three namespaces:
 
 - boot-uberjar-mystery.main:

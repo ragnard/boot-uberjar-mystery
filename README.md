@@ -1,6 +1,7 @@
 # boot uberjar mystery
 
-This project demonstrates a potential issue with boot uberjar/aot.
+This project demonstrates a weird issue I discovered when trying to
+create an uberjar with boot.
 
 The program consists of three namespaces:
 

@@ -1,5 +1,7 @@
 # boot uberjar mystery
 
+**This has now been fixed in master and will be available in 2.1.3**
+
 This project demonstrates a weird issue I discovered when trying to
 create an uberjar with boot.
 
